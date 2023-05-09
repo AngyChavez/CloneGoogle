@@ -1,7 +1,7 @@
 # Clonación de interfaz de Google creado con HTML5 Y CSS3 en el bootcamp de Tecnolochicas Pro✨.
 ## ÍNDICE 
 * 👍🏻[1.Intro😊](https://github.com/AngyChavez/CloneGoogle/blob/main/README.md#1-intro)
-* ☝🏻[2 Que construi💗]()
+* ☝🏻[2 Que construi💗](https://github.com/AngyChavez/CloneGoogle/blob/main/README.md#2-qu%C3%A9-constru%C3%AD)
 * 💪🏻[3 Objetivo del proyecto🥇](#)
 ****
 ## 1. Intro
