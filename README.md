@@ -2,7 +2,7 @@
 ## ÍNDICE 
 * 👍🏻[1.Intro😊](https://github.com/AngyChavez/CloneGoogle/blob/main/README.md#1-intro)
 * ☝🏻[2 Que construi💗](https://github.com/AngyChavez/CloneGoogle/blob/main/README.md#2-qu%C3%A9-constru%C3%AD)
-* 💪🏻[3 Objetivo del proyecto🥇](#)
+* 💪🏻[3 Objetivo del proyecto🥇](https://github.com/AngyChavez/CloneGoogle/blob/main/README.md#3-objetivo-del-proyecto)
 ****
 ## 1. Intro
 HTML5 trabaja de la mano con CSS3 para crear páginas web que usamos todos los días en el navegador incluso este sitio web en donde estas viendo esyte contenido esta contruido con HTML y CSS.
